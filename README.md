@@ -1,0 +1,2 @@
+# kardex-digital
+CREACION DE KARDEX PARA LA ENTREGA DE EPP 
